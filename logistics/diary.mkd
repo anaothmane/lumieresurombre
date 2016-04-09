@@ -1,0 +1,30 @@
+Agenda
+======
+
+
+8 Avril
+-------
+
+### Rapport
+#### Division des tâches choisie:
+1. [ ] Télécharger les données
+  1. [ ] Décider quels tweets télécharger
+  2. [ ] Décider quelle base de données utiliser
+  3. [ ] Créer le code de téléchargement
+  4. [ ] Télécharger
+2. [ ] Préparer les données
+  1. [ ] Extraire métadonnées (localisation et date en premier)
+    1. [ ] Corréler localisation avec données géographiques
+       - [ ] Choisir les données géographiques à considérer
+       - [ ] Les rajouter à la base de données
+    2. [ ] Corréler les dates avec les nouvelles sur réfugiés
+    3. [ ] Corréler les hashtags et souscriptions des utilisateurs
+  2. [ ] Rendre un vecteur
+  3. [ ] Faire un clustering des champs lexicaux
+4. [ ] Lancer un DCA
+  - Features: champs lexicaux parents, sentiments parents, etc.
+  - Individual: métadonnées preparées
+  - Résultat: analyse du tweet
+5. Faire une post-analyse statistique
+  - Coefficients et influences utilitaires
+  - Clustering géographique et temporel

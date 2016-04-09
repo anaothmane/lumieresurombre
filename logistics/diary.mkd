@@ -27,9 +27,9 @@ Agenda
   2. [ ] Rendre un vecteur
   3. [ ] Faire un clustering des champs lexicaux
 4. [ ] Lancer un DCA
-  - Features: champs lexicaux parents, sentiments parents, etc.
-  - Individual: métadonnées preparées
-  - Résultat: analyse du tweet
-5. Faire une post-analyse statistique
-  - Coefficients et influences utilitaires
-  - Clustering géographique et temporel
+  - [ ] Features: champs lexicaux parents, sentiments parents, etc.
+  - [ ] Individual: métadonnées preparées
+  - [ ] Résultat: analyse du tweet
+5. [ ] Faire une post-analyse statistique
+  - [ ] Coefficients et influences utilitaires
+  - [ ] Clustering géographique et temporel

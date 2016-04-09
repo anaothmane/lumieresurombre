@@ -4,6 +4,11 @@ Agenda
 
 8 Avril
 -------
+### À Faire
+- **Miss Khaddouj**:
+  - Analyse empirique des hashtags, utilisateurs des gens parlant des réfugiés
+- **Benkiki**:
+  - Créer le code de téléchargement de tweets en cascade
 
 ### Rapport
 #### Division des tâches choisie:
